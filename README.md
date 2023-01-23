@@ -1,1 +1,3 @@
-Code used in practice sessions for high school students conducted on 22.08
+# Chaos and Fractals
+
+### Code used in practice sessions for high school students conducted on 22.08
